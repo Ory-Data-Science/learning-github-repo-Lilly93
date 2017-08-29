@@ -7,5 +7,5 @@ Clinical Studies
 ICD-10s
 Drug Data
 Sales Data
-Healthcre Data
+Healthcare Data
 Technology Data
