@@ -1,0 +1,11 @@
+Types of Data Pharmacists Encounter:
+Patient Data
+Physician Data
+Medical Claims/Insurance
+Lab Data
+Clinical Studies
+ICD-10s
+Drug Data
+Sales Data
+Healthcre Data
+Technology Data
